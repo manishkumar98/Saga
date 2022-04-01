@@ -1,6 +1,5 @@
 // get your own key from unsplash please 😇
-const KEY =
-  "?client_id=5f96323678d05ff0c4eb264ef184556868e303b32a2db88ecbf15746e6f25e02";
+const KEY = "?client_id=81y6Zf2wXe9Fxu4wUCu2RbyvR0ISiDqlUKjCkoltKfE";
 const URL = `https://api.unsplash.com/photos/`;
 
 const fetchImages = async (page) => {
